@@ -22,13 +22,13 @@ The algorithms explored are:
   
   Accuracies achived in 20 batches of 10 sentences:
   
-                                    Greek                   English
+   | Greek | English
                                     
-Random Sampling                     0.7770678400993347      0.8916313648223877
+Random Sampling | 0.7770678400993347 | 0.8916313648223877
 
-Least Certain Instance              0.8627790212631226      0.9475264549255371
+Least Certain Instance | 0.8627790212631226 | 0.9475264549255371
 
-Least Certain Sentence              0.9178774356842041      0.9684215784072876
+Least Certain Sentence | 0.9178774356842041 | 0.9684215784072876
 
 Highest Certainty Difference        0.9151422381401062      0.9687584042549133
 
