@@ -23,11 +23,18 @@ The algorithms explored are:
   Accuracies achived in 20 batches of 10 sentences:
   
                                     Greek                   English
+                                    
 Random Sampling                     0.7770678400993347      0.8916313648223877
+
 Least Certain Instance              0.8627790212631226      0.9475264549255371
+
 Least Certain Sentence              0.9178774356842041      0.9684215784072876
+
 Highest Certainty Difference        0.9151422381401062      0.9687584042549133
+
 Highest Entropy                     0.9345951676368713	    0.9709768891334534
+
 Query by Committee                  0.8265208005905151	    0.8941338062286377
+
 Information Density                 0.8957549333572388	    0.9637103080749512
 
