@@ -5,6 +5,8 @@ This is the second of two parts of code, and explores different active learning 
 
 After downloading the files, you need to also download word2vec pretrained model for english from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?resourcekey=0-wjGZdNAUop6WykTtMip30g if you wish to use information densiry algorithm.
 
+In order to run the code you need Python version 8.8.9 or newer and installing the requirements listed on requirements.txt.
+
 The algorithms explored are:
   - Uncertainty Sampling
     - Sampling least certain instance
