@@ -1,4 +1,4 @@
-# Active-Learning-for-Part-of-Speech-Tagging
+# Active Learning for Part of Speech Tagging
 This repository holds the code for my thesis on "Active Learning and Part of Speech Tagging" and specifically the part about active learning.
 
 This is the second of two parts of code, and explores different active learning algorithms used on Part of Speech Taggers. The first part on different pos tagging models can be found on https://github.com/Xenonas/Part-of-Speech-Tagging-Multiple-Models.
