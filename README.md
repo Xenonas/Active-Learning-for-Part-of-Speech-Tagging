@@ -16,5 +16,5 @@ The algorithms explored are:
   - Query by Committee
   - Information Density
 
-  Run <b>main.py</b> in order to choose language and algorithm, in ordere to see accuracy and training history per algorithm in the Universal Dependencies datasets, EWT (english) and GDT (greek).
+  Run <b>main.py</b> in order to choose language and algorithm, in ordere to see accuracy and training history per algorithm in the Universal Dependencies datasets, EWT (english) and GDT (greek) (https://universaldependencies.org/).
 
