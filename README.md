@@ -20,7 +20,7 @@ The algorithms explored are:
   - Information Density
 
   Run <b>main.py</b> in order to choose language and algorithm, in ordere to see accuracy and training history per algorithm in the Universal Dependencies datasets, EWT (english) and GDT (greek) (https://universaldependencies.org/).
-  After running main and choosing a model, if it has been used in the past, it will be loaded, if not, then the model will be trained from scratch. Then, user can input sentences to be tagged.
+  After running main and choosing a model, if it has been used in the past, it will be loaded, if not, then the model will be trained from scratch. Then, the user can input sentences to be tagged.
   
   The code uses a bilstm simple model.
   
