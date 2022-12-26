@@ -7,6 +7,9 @@ After downloading the files, you need to also download word2vec pretrained model
 
 In order to run the code you need <b>Python version 8.8.9</b> or newer and installing the requirements listed on <b>requirements.txt</b>.
 
+You'll also need to install the greek package from space in order to use the greek word vectoriser. In order to do that on the terminal write:
+> python -m spacy download el_core_news_sm
+
 The algorithms explored are:
   - Uncertainty Sampling
     - Sampling least certain instance
