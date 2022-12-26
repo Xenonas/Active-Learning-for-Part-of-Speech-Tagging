@@ -22,7 +22,7 @@ The algorithms explored are:
   Run <b>main.py</b> in order to choose language and algorithm, in ordere to see accuracy and training history per algorithm in the Universal Dependencies datasets, EWT (english) and GDT (greek) (https://universaldependencies.org/).
   After running main and choosing a model, if it has been used in the past, it will be loaded, if not, then the model will be trained from scratch. Then, the user can input sentences to be tagged.
   
-  The code uses a bilstm simple model.
+  The code uses a simple <b>Bi-LSTM model</b>.
   
   Accuracies achived in 20 batches of 10 sentences:
   
