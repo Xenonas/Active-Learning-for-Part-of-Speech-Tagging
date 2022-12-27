@@ -165,9 +165,9 @@ def make_prediction(model, word, tag, sentence, labels):
 def get_dataset(lang):
 
     if lang == "eng":
-        path = r"venv/UD_English-EWT/en_ewt-ud-"
+        path = r"UD_English-EWT/en_ewt-ud-"
     elif lang == "gr":
-        path = r"venv/UD_Greek-GDT/el_gdt-ud-"
+        path = r"UD_Greek-GDT/el_gdt-ud-"
 
     train = read_data(path + "train.conllu")
     test = read_data(path + "test.conllu")
